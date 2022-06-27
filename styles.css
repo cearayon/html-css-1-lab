@@ -1,0 +1,36 @@
+img {
+    background-color: burlywood ;
+    width:100px;
+    height: 50px;
+    
+
+}
+
+p {
+    background-color: burlywood;
+    color: green;
+}
+
+
+div > table {
+    color: white;
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-m/1280/1e/4d/cf/f4/the-masterpiece-of-a.jpg');
+    background-size: 25%, 50%;
+    background-position: center;
+}
+
+
+h1 {
+    color:green;
+}
+
+span {
+    color: burlywood;
+    background-color: green;
+}
+
+div > button {
+    background-color:darkolivegreen;
+    color: burlywood;
+}
+
